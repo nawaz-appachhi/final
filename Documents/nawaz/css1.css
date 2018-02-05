@@ -1,0 +1,128 @@
+
+.header ,.footer {
+    text-align: center;
+    background-color: rgb(72,255,222);
+    color: white;
+    padding: 10px;
+}
+
+div:hover {
+    background-color: rgb(250,235,215);
+}
+
+nav {
+	text-align: center;
+    float: left;
+    width: 230px;
+    margin-right: 15px;
+       
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 0px;
+}
+
+.content{
+	clear:right;
+	margin-left: 230px;
+}
+
+.floating-box1 {
+    text-align: center;
+    float: left;
+    width: 230px;
+    height: 50px;
+display: block;
+    border: 3px solid rgb(215, 107,9); 
+    background-color: #FFEE58;
+}
+.floating-box2 {
+    text-align: center;
+    float: left;
+    width: 230px;
+    height: 328px;
+display: block;
+    border: 3px solid rgb(215, 107,9);  
+background-color: #00E676;
+}
+.floating-box3 {
+    text-align: center;
+    float: left;
+    width: 230px;
+    height: 310px;
+display: block;
+    border: 3px solid rgb(215, 107,9);  
+    background-color: #FFEE58;
+}
+.floating-box4 {
+    text-align: center;
+    float: left;
+    width: 230px;
+    height: 188px;
+display: block;
+    border: 3px solid rgb(215, 107,9);  
+    background-color: #00E676;
+}
+.floating-box5 {
+    text-align: center;
+    float: left;
+    width: 230px;
+    height: 104px;
+display: block;
+    border: 3px solid rgb(215, 107,9);
+ background-color: #FFEE58;
+}
+.floating-box6 {
+    text-align: center;
+    float: left;
+    width: 230px;
+    height:178px;
+display: block;
+    border: 3px solid rgb(215, 107,9);
+background-color: #00E676;
+}
+.floating-box7 {
+    text-align: center;
+    float: left;
+    width: 230px;
+    height: 84px;
+display: block;
+    border: 3px solid rgb(215, 107,9);  
+background-color: #FFEE58;
+}
+
+
+
+
+
+.box1{
+width: auto;
+height: auto;
+margin-top: 0px;
+border: 3px solid rgb(215, 107,9); 
+background-color: #C5E1A5;
+}
+
+.floating-box2 h3{
+	margin-top: 150px;
+}
+.floating-box3 h3{
+	margin-top: 129px;
+}
+.floating-box4 h3{
+	margin-top: 70px;
+}
+.floating-box5 h3{
+	margin-top: 40px;
+}
+.floating-box6 h3{
+	margin-top: 76px;
+}
+h3, div dt,b, u{
+	color: #F50057;
+}
+h1, h4{
+	color: rgb(204,33,68);
+}
